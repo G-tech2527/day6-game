@@ -1,0 +1,50 @@
+body{
+    background:linear-gradient(90deg,red,black,red);
+    
+}
+
+#main{
+    border: 5px solid gray;
+    height: 450px;
+    width: 550px;
+    margin: auto;
+    margin-top: 150px;
+    background-image: url("./im1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 10px 10px 10px;
+    text-align: center;
+    opacity: 0.9;
+
+
+}
+#gk{
+    text-align: justify;
+    margin-left: 120px;
+    color: whitesmoke;
+}
+button{
+    width: 150px;
+    height: 40px;
+    background-color: blue;
+}
+h1{
+    color: rgb(253, 73, 2);
+}
+h3{
+    color: whitesmoke;
+}
+#result{
+    color: whitesmoke;
+}
+h2{
+    color: whitesmoke;
+}
+#b1:hover{
+    height: 50px;
+    background-color: red;
+}
+#b2:hover{
+    height: 50px;
+    background-color: red;
+}
